@@ -1,4 +1,6 @@
 from hashtable import HashTable
+class HashTable:
+    
 
 if __name__ == "__main__":
     ht = HashTable(30)
